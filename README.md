@@ -1,5 +1,7 @@
 ### zsh-allclear
 
+_As seen on [Awesome](https://github.com/unixorn/awesome-zsh-plugins)!_
+
 A super tiny plugin (<10 LOC) that clears the terminal when you `cd` into `$HOME`. That's it.
 
 ### Installing
