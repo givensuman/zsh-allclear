@@ -6,7 +6,7 @@ A super tiny plugin (<10 LOC) that clears the terminal when you `cd` into `$HOME
 
 ### Installing
 
-To install this, just put source the plugin file in your ~/.zshrc
+To install this, just put source the plugin file in your `~/.zshrc`
 
 ```shell
 source /path/to/zsh-allclear.plugin.zsh
